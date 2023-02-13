@@ -1,0 +1,21 @@
+    [
+        {
+                "genero": "terror, drama",
+                "creador" : "Mary Shelley",
+                "copias disponibles": 15
+        }
+    ,
+        {
+
+            "genero": "comedia, anime",
+            "creador" : "Atsushi Ōkubo",
+            "copias disponibles": 14
+        }
+    ,
+        {
+            "genero": "terror, poesia",
+            "creador" : "edgar allan poe",
+            "copias disponibles": 13
+        }
+    ]
+        
